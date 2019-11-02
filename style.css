@@ -172,7 +172,7 @@ main>section {
     position: relative;
 }
 
-.offer li::before {
+/* .offer li::before {
     content: '';
     width: 20px;
     height: 20px;
@@ -183,4 +183,4 @@ main>section {
     position: absolute;
     top: 0;
     left: -30px;
-}
+} */
